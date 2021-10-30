@@ -1,3 +1,4 @@
+//! Para definir el modo estricto y se deban declarar la variables antes de usarlas
 "use strict";
 
 let x = 10;
